@@ -1,0 +1,27 @@
+#slider .slider-item {
+  padding: 10px;
+}
+
+#slider .slider-item img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 100%;
+  height: 600px;
+}
+
+.slick-prev:before {
+  font-size: 30px;
+  color: red;
+  content: '\f0a5';
+  font-family: "Font Awesome 5 Free";
+  font-weight: 600;
+}
+
+.slick-next:before {
+  font-size: 30px;
+  color: red;
+  content: '\f0a4';
+  font-family: "Font Awesome 5 Free";
+  font-weight: 600;
+}
+/*# sourceMappingURL=style.css.map */
